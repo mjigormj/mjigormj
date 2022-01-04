@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Igor 👋
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 Atualmente trabalho com back-end
+- 🌱 Estudando Typescript
 - 😄 Pronouns: ele/dele
 
   <div>
