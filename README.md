@@ -6,12 +6,12 @@
 - 🔬 Estudando BIG DATA & ANALYTICS 🎲
 
 
-  <div>
+  <div align= "center">
     <a href="https://github.com/mjigormj">
     <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=mjigormj&show_icons=true&theme=tokyonight"/>
     <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjigormj&layout=compact&langs_count=8&theme=tokyonight"/>
   </div>
-  <div style="display: inline_block"><br>
+  <div align= "center"><br>
     <img align="center" alt="Igor-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="max-width: 100%;">
     <img align="center" alt="Igor-TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="max-width: 100%;">
      <img align="center" alt="Igor-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="max-width: 100%;">   
