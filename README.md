@@ -1,7 +1,10 @@
-### Olá! Eu sou o Igor 👋
-- 🔭 Atualmente trabalho com back-end
-- 🌱 Estudando Typescript
-- 😄 Pronouns: ele/dele
+
+<h1>Olá! Eu sou o Igor👋👽</h1>
+<p align= "center">Graduado em Técnico em Desenvolvimento de Sistemas | Estudante de Sistemas de Informação </p>
+
+- 🛠 Sou desenvolvedor na Accesstage
+- 🔬 Estudando BIG DATA & ANALYTICS 🎲
+
 
   <div>
     <a href="https://github.com/mjigormj">
