@@ -3,7 +3,7 @@
 <p align= "center">Graduado em Técnico em Desenvolvimento de Sistemas | Estudante de Sistemas de Informação </p>
 
 - 🛠 Sou desenvolvedor na Accesstage
-- 🔬 Estudando BIG DATA & ANALYTICS 🎲
+- 🔬 Estudando o Universo Spring 🍃
 
 
   <div align= "center">
