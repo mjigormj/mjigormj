@@ -2,7 +2,7 @@
 <h1>Olá! Eu sou o Igor👋👽</h1>
 <p align= "center">Graduado em Técnico em Desenvolvimento de Sistemas | Estudante de Sistemas de Informação </p>
 
-- 🛠 Sou desenvolvedor na Accesstage
+- 🛠 Sou desenvolvedor no Banco BV
 - 🔬 Estudando o Universo Spring 🍃
 
 
